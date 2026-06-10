@@ -1,6 +1,6 @@
-Origem: Os dados foram obtidos do repositório: 
-https://github.com/AlexTheAnalyst/MySQL-YouTube-Series 
+Origem: Os dados (demissões mundiais entre 2020-03 e 2023-03) foram obtidos do repositório: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series 
 Acessado em 05/2026
+
 
 Objetivo: Executar limpeza de dados e realizar algumas análises
 (remover espaços, corrigir ortografia, remover - quando possível - dados nulos/vazios, 
