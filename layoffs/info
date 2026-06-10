@@ -1,0 +1,15 @@
+Origem: Os dados foram obtidos do repositório: 
+https://github.com/AlexTheAnalyst/MySQL-YouTube-Series 
+Acessado em 05/2026
+
+Objetivo: Executar limpeza de dados e realizar algumas análises
+(remover espaços, corrigir ortografia, remover - quando possível - dados nulos/vazios, 
+remover duplicadastas e colunas desnecessárias)
+
+Considerações:
+1 - já se deve ter o banco de dados original na máquina;
+2 - foram deixados os comandos (selects) para demonstrar a lógica envolvida no processo ao invés de apenas executar os comandos para limpeza e tratamento dos dados;
+3 - Ao final, há 3 visualizações* (*análises) realizadas como exemplos (demosntradas nas imagens).
+
+Exercício por John Werneck
+Atualizado em 05/2026
